@@ -1,6 +1,5 @@
 # PSTAT 234 Final Project
-## This repository is for Spring 2018 PSTAT 234 Final Project.
-## Group members: Wenlu Gou, Nhan Huynh, Zach Terner, Laura Urbisci 
+## This repository is for Spring 2018 PSTAT 234 Final Project. Group members: Wenlu Gou, Nhan Huynh, Zach Terner, Laura Urbisci 
 
 ### Data set:
 Our group proposes to analyze data from Lyft, an on-demand transportation company, for the PSTAT 234 Final Project. 
